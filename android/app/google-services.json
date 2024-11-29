@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473405547044",
+    "project_id": "atelier4-a-aboufaresse-i-de46d",
+    "storage_bucket": "atelier4-a-aboufaresse-i-de46d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473405547044:android:8e17c52b0e37d95c2c2eb1",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_a_aboufaresse_iirg6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6TrT_jxAOjZj0iZP4Vi1c5tOBzwpCiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
